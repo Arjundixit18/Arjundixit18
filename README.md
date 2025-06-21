@@ -158,7 +158,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arjundixit18&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjundixit18&theme=radical" alt="GitHub Streak"/>
-  
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjundixit18&theme=radical" alt="GitHub Streak"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjundixit18&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
