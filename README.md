@@ -156,10 +156,11 @@
 <p align="center">
   <!--img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjundixit18&show_icons=true&locale=en&layout=compact" alt="arjundixit18" /-->
   <img src="https://github-readme-stats.vercel.app/api?username=arjundixit18&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjundixit18&theme=radical" alt="GitHub Streak"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjundixit18&layout=compact&theme=radical" alt="Top Langs" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjundixit18&theme=radical&langs_count=9&hide_border=true&show_icons=true" alt="Top Langs"/>
+
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjundixit18&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <!-- Banner Image -->  
