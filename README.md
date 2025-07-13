@@ -20,7 +20,8 @@
 
 <!-- Profile Views Counter -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arjundixit18&label=Profile%20views&color=0e75b6&style=flat" alt="arjundixit18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arjundixit18&color=ff69b4&style=flat-square&style=for-the-badge" alt="arjundixit18"/> </p>
+
 
 ---
 
@@ -197,7 +198,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C548%20hrs%208%20mins-blue)
 
-![Profile Views](https://komarev.com/ghpvc/?username=arjundixit18&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=arjundixit18&color=blueviolet)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
