@@ -164,7 +164,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjundixit18&theme=radical&langs_count=9&hide_border=true&show_icons=true" alt="Top Langs"/>
 
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjundixit18&theme=radical" alt="GitHub Streak"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjundixit18&theme=radical&card_width=600" alt="GitHub Streak"/>
 </p>
 
 <!-- Banner Image -->  
@@ -197,7 +197,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C548%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=arjundixit18&label=Profile%20views&color=0e75b6&style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
@@ -244,10 +244,10 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Python** 
 
 ```text
-JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Python                   13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
 C++                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
