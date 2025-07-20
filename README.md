@@ -56,7 +56,7 @@ Connect with me:
     <tr>
       <!-- LinkedIn -->
       <td>
-        <a href="https://www.linkedin.com/in/nikhilpatidar01/" target="_blank">
+        <a href="https://www.linkedin.com/in/arjun-dixit/" target="_blank">
           <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/Linkdin.gif?raw=true" height="50" width="50" alt="LinkedIn">
         </a>
       </td>
@@ -80,65 +80,31 @@ Connect with me:
       </td>
       <!-- GFG -->
       <td>
-        <a href="" target="_blank">
+        <a href="https://auth.geeksforgeeks.org/user/dixitar9ykp" target="_blank">
           <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/GFG.gif?raw=true" alt="Twitter/X" height="50" width="50">
         </a>
       </td>
       <!-- LeetCode -->
       <td>
-        <a href="" target="_blank">
+        <a href="https://www.leetcode.com/arjundixit18" target="_blank">
           <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/leetcode.png?raw=true" alt="LeetCode" height="50" width="50">
         </a>
       </td>
       <!-- HackerRank -->
       <td>
-        <a href="" target="_blank">
+        <a href="https://www.hackerrank.com/dixitarjun249" target="_blank">
           <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/HackerRank.gif?raw=true" alt="Twitter/X" height="110" width="100">
         </a>
       </td>
      <!-- HackerEarth -->
       <td>
-        <a href="" target="_blank">
+        <a href="https://www.hackerearth.com/@dixitarjun249" target="_blank">
           <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/hackerearth-.gif?raw=true" alt="Twitter/X" height="80" width="80">
         </a>
       </td>      
     </tr>
   </table>
 </div>
-
-
-
-<h3 align='center'><i>Social Media Handles</i></h3>
-<p align='center'>
- 
-<table width="100" align='center'>
-<tr>
-    <td align='center' width="60">
-        <a href="https://auth.geeksforgeeks.org/user/dixitar9ykp"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="60"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://instagram.com/i_dixitarjun18"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://linkedin.com/in/arjun-dixit"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://stackoverflow.com/users/arjun-dixit"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="60"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.codechef.com/users/dixitarjun249"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dixitarjun249" width="60"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.hackerrank.com/dixitarjun249"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="60"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.leetcode.com/arjundixit18"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.hackerearth.com/@dixitarjun249"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="60"></a>
-    </td>
-</tr>
-</table>
 
 
 
