@@ -45,9 +45,9 @@
 - 📫 How to reach me **dixitarjun249@gmail.com**
 
 <h3 align="center">
- <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIF/code.gif" height="20"/> 
+ <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/code.gif" height="20"/> 
 Connect with me:
- <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIF/code.gif" height="20"/>
+ <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/code.gif" height="20"/>
 </h3>
 
 
