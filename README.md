@@ -44,19 +44,26 @@
 
 - 📫 How to reach me **dixitarjun249@gmail.com**
 
-  <h3 align='center'><i>Social Media Handles</i></h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- LinkedIn -->
+      <td>
+        <a href="https://www.linkedin.com/in/nikhilpatidar01/" target="_blank">
+          <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/Linkdin.gif?raw=true" height="50" width="50" alt="LinkedIn">
+        </a>
+      </td>
+      </tr>
+  </table>
+</div>
+
+
+<h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
 <table width="100" align='center'>
 <tr>
-  
-      <!-- LinkedIn -->
-      <td>
-        <a href="https://www.linkedin.com/in/arjun-dixit/" target="_blank">
-          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/Master/GIFS/Linkdin.gif?raw=true" height="50" width="50" alt="LinkedIn">
-        </a>
-      </td>
-  
     <td align='center' width="60">
         <a href="https://auth.geeksforgeeks.org/user/dixitar9ykp"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="60"></a>
     </td>
