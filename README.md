@@ -49,6 +49,14 @@
  
 <table width="100" align='center'>
 <tr>
+  
+      <!-- LinkedIn -->
+      <td>
+        <a href="https://www.linkedin.com/in/arjun-dixit/" target="_blank">
+          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/Master/GIFS/Linkdin.gif?raw=true" height="50" width="50" alt="LinkedIn">
+        </a>
+      </td>
+  
     <td align='center' width="60">
         <a href="https://auth.geeksforgeeks.org/user/dixitar9ykp"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="60"></a>
     </td>
