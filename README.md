@@ -45,9 +45,9 @@
 - 📫 How to reach me **dixitarjun249@gmail.com**
 
 <h3 align="center">
- <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/code.gif" height="20"/> 
+ <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIF/code.gif" height="20"/> 
 Connect with me:
- <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/code.gif" height="20"/>
+ <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIF/code.gif" height="20"/>
 </h3>
 
 
@@ -57,44 +57,55 @@ Connect with me:
       <!-- LinkedIn -->
       <td>
         <a href="https://www.linkedin.com/in/nikhilpatidar01/" target="_blank">
-          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/Master/GIFS/Linkdin.gif?raw=true" height="50" width="50" alt="LinkedIn">
+          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/Linkdin.gif?raw=true" height="50" width="50" alt="LinkedIn">
         </a>
       </td>
       <!-- Gmail -->
       <td>
         <a href="mailto:dixitarjun249@gmail.com" target="_blank">
-          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/Master/GIFS/Gmail.gif?raw=true" alt="Gmail" height="50" width="50">
+          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/Gmail.gif?raw=true" alt="Gmail" height="50" width="50">
         </a>
       </td>
       <!-- Instagram -->
       <td>
         <a href="https://instagram.com/i_dixitarjun18" target="_blank">
-          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/Master/GIFS/Instagram.gif?raw=true" alt="Instagram" height="50" width="50">
+          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/Instagram.gif?raw=true" alt="Instagram" height="50" width="50">
         </a>
       </td>
       <!-- Twitter/X -->
       <td>
         <a href="" target="_blank">
-          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/Master/GIFS/Twitter.gif?raw=true" alt="Twitter/X" height="50" width="50">
+          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/Twitter.gif?raw=true" alt="Twitter/X" height="50" width="50">
         </a>
       </td>
+      <!-- GFG -->
+      <td>
+        <a href="" target="_blank">
+          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/GFG.gif?raw=true" alt="Twitter/X" height="50" width="50">
+        </a>
+      </td>
+      <!-- LeetCode -->
+      <td>
+        <a href="" target="_blank">
+          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/leetcode.png?raw=true" alt="LeetCode" height="50" width="50">
+        </a>
+      </td>
+      <!-- HackerRank -->
+      <td>
+        <a href="" target="_blank">
+          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/HackerRank.gif?raw=true" alt="Twitter/X" height="110" width="100">
+        </a>
+      </td>
+     <!-- HackerEarth -->
+      <td>
+        <a href="" target="_blank">
+          <img src="https://github.com/Arjundixit18/Arjundixit18/blob/main/GIFS/hackerearth-.gif?raw=true" alt="Twitter/X" height="80" width="80">
+        </a>
+      </td>      
     </tr>
   </table>
 </div>
 
-
-<div align="center">
-  <table>
-    <tr>
-      <!-- LinkedIn -->
-      <td>
-        <a href="https://www.linkedin.com/in/nikhilpatidar01/" target="_blank">
-          <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/Linkdin.gif?raw=true" height="50" width="50" alt="LinkedIn">
-        </a>
-      </td>
-      </tr>
-  </table>
-</div>
 
 
 <h3 align='center'><i>Social Media Handles</i></h3>
