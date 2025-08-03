@@ -226,6 +226,10 @@ Connect with me:
 
    <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=arjundixit18&theme=radical&card_width=600" alt="GitHub Streak"/-->
    <img src="https://github-readme-streak-stats.herokuapp.com?user=arjundixit18&theme=radical&card_width=600&timezone_offset=-8" alt="GitHub Streak"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=arjundixit18&theme=radical&card_width=600&timezone_offset=-11" alt="GitHub Streak"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=arjundixit18&theme=radical&card_width=600&timezone_offset=-10" alt="GitHub Streak"/>
+
+
 
 </p>
 
