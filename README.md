@@ -215,6 +215,15 @@ Connect with me:
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Arjundixit18/Arjundixit18/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
+<!--
+## 🎓 Certificates
+<p align="center">
+  <img src="https://drive.google.com/file/d/1DMGBdTkwvdjrYtyvwf3FMmqCgeuoV3qp/view?usp=drive_link" alt="Udemy" width="270"/>
+  <img src="https://drive.google.com/file/d/1Su5Rgu7jX_aRp2iba3kNe-sgADAoogMg/view?usp=drive_link" alt="Aptitude" width="270"/>
+  <img src="https://drive.google.com/file/d/1Dpfw5kyKpvoERhIahdhrb_ziHiOU7iET/view?usp=drive_link" alt="Tableau" width="270"/>
+</p>
+-->
+
 ### 📊 GitHub Stats & Activity
 <p align="center">
   <!--img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjundixit18&show_icons=true&locale=en&layout=compact" alt="arjundixit18" /-->
