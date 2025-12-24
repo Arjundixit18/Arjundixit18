@@ -1,7 +1,7 @@
 <!-- Banner Image -->  
 
 
- 
+
 <h1 align="center">Hi 👋, I'm Arjun Dixit</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
