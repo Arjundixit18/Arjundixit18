@@ -38,7 +38,7 @@
 
 - 🤝 I’m looking for help with **Salesforce**
 
-- 👨‍💻 All of my projects are available at [https://lustrous-snickerdoodle-cc274b.netlify.app/](https://lustrous-snickerdoodle-cc274b.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://arjundixit18.vercel.app/](https://arjundixit18.vercel.app/)
 
 - 💬 Ask me about **Salesforce**
 
